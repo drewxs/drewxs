@@ -8,10 +8,10 @@ I'm Drew, a frontend developer working at Paper Crane.
 ## 🔭 My GitHub stats
 <div align="center">
   <a href="https://github.com/kito0?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=kito0&theme=dracula" alt="Stats" align="center" height="206" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kito0&theme=dracula" alt="Stats" align="center" height="200" />
   </a>
   <a href="https://github.com/kito0?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kito0&theme=dracula&layout=compact" alt="Stats" align="center" height="206" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kito0&theme=dracula&layout=compact" alt="Stats" align="center" height="200" />
   </a>
 </div>
 
