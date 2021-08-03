@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 I'm Drew, a Frontend Developer at Paper Crane.
 
@@ -19,7 +19,7 @@ I'm Drew, a Frontend Developer at Paper Crane.
 
 <div align="center">
 <a href="https://github.com/kito0">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kito0&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" width="1000"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kito0&theme=darkhub&row=1&column=3&margin-w=15&margin-h=15" width="500"/>
 </a>
 </div>
 
