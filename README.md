@@ -3,28 +3,16 @@
 I'm Drew, a Frontend Developer at Paper Crane.
 
 <br>
-<br>
 
-## 🔭 My GitHub stats
 <div align="center">
   <a href="https://github.com/kito0?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=kito0&theme=dracula" alt="Stats" align="center" height="180" />
   </a>
+  &emsp;&emsp;
   <a href="https://github.com/kito0?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kito0&theme=dracula&layout=compact" alt="Stats" align="center" height="180" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/kito0">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kito0&theme=darkhub&row=1&column=3&margin-w=15&margin-h=15" width="500"/>
-</a>
-</div>
-
-<br>
-<br>
 
 <!--
 
