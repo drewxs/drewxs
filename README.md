@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Drew, a Frontend Developer at Paper Crane.
+I'm Drew, Frontend Developer at Paper Crane.
 
 <br>
 
