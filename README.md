@@ -1,9 +1,3 @@
-# Hi there
-
-I'm Drew, Frontend Developer at Paper Crane.
-
-<br>
-
 <div align="center">
   <a href="https://github.com/kito0?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=kito0&theme=dracula" alt="Stats" align="center" height="180" />
